@@ -1,0 +1,20 @@
+{
+    "file": "C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\audio_files\\recorded_20250523_023256.wav",
+    "language": "en",
+    "language_warning": {
+        "triggered": false,
+        "severity": "None",
+        "message": ""
+    },
+    "segments": [
+        {
+            "start": "00:00.000",
+            "end": "00:04.360",
+            "text": "I'm just going to look at the photo and see if this is not mine.",
+            "confidence": 0.4898,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        }
+    ],
+    "raw_text": "I'm just going to look at the photo and see if this is not mine."
+}

@@ -1,0 +1,18 @@
+{
+    "file": "C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\audio_files\\recorded_20250523_035424.wav",
+    "language": "en",
+    "language_warning": {
+        "triggered": false,
+        "severity": "None",
+        "message": ""
+    },
+    "segments": [
+        {
+            "start": "00:00.000",
+            "end": "00:00.000",
+            "text": "",
+            "confidence": 0.75
+        }
+    ],
+    "raw_text": ""
+}

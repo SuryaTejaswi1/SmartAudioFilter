@@ -1,0 +1,10 @@
+ Privacy Scan Summary — 20250523_063231
+
+    Total Segments: 2
+    Safe: 2
+    Rephrased (Warning): 0
+    Redacted (Critical): 0
+
+    Top Flagged Rationales:
+    None flagged.
+    

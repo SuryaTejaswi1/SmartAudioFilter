@@ -1,0 +1,691 @@
+2025-05-21 18:46:39,953 - INFO - App loaded successfully.
+2025-05-21 18:48:17,165 - INFO - App loaded successfully.
+2025-05-21 18:52:30,171 - INFO - App loaded successfully.
+2025-05-21 18:55:37,875 - INFO - App loaded successfully.
+2025-05-21 18:58:04,008 - INFO - App loaded successfully.
+2025-05-21 19:00:31,512 - INFO - App loaded successfully.
+2025-05-21 19:03:43,425 - INFO - This works correctly.
+2025-05-21 19:07:30,263 - INFO - App loaded successfully.
+2025-05-21 19:09:50,148 - INFO - App loaded successfully.
+2025-05-21 19:09:50,403 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 19:09:54,261 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 19:09:54,262 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 19:44:37,199 - INFO - App loaded successfully.
+2025-05-21 19:44:37,634 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 19:44:40,736 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 19:44:40,736 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 19:58:36,404 - INFO - App loaded successfully.
+2025-05-21 19:58:36,746 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 19:58:39,295 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 19:58:39,295 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:00:59,954 - INFO - App loaded successfully.
+2025-05-21 20:00:59,960 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:01:02,151 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:01:02,151 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:01:02,159 - INFO - File uploaded: ytmp3free.cc_christina-perri-a-thousand-years-acapella-without-music-youtubemp3free.org.mp3
+2025-05-21 20:01:02,159 - INFO - Converting ytmp3free.cc_christina-perri-a-thousand-years-acapella-without-music-youtubemp3free.org.mp3 to WAV
+2025-05-21 20:17:08,434 - INFO - App loaded successfully.
+2025-05-21 20:17:08,444 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:17:16,426 - INFO - App loaded successfully.
+2025-05-21 20:17:16,426 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:17:23,872 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:17:23,872 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:17:23,872 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:17:23,872 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:17:27,791 - INFO - App loaded successfully.
+2025-05-21 20:17:27,795 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:17:28,990 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:17:28,990 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:17:31,998 - INFO - App loaded successfully.
+2025-05-21 20:17:32,000 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:17:32,301 - INFO - Recording started.
+2025-05-21 20:17:33,094 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:17:33,095 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:17:33,132 - INFO - Recording started.
+2025-05-21 20:17:33,217 - INFO - Live recording started.
+2025-05-21 20:17:38,828 - INFO - App loaded successfully.
+2025-05-21 20:17:38,829 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:17:39,572 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:17:39,572 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:17:39,575 - WARNING - No audio frames captured.
+2025-05-21 20:17:39,576 - ERROR - Error during stop/transcription: argument should be a str or an os.PathLike object where __fspath__ returns a str, not 'NoneType'
+2025-05-21 20:32:18,446 - INFO - App loaded successfully.
+2025-05-21 20:32:19,257 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:32:22,692 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:32:22,692 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:41:49,680 - INFO - App loaded successfully.
+2025-05-21 20:41:49,995 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:41:52,550 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:41:52,550 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:44:44,572 - INFO - App loaded successfully.
+2025-05-21 20:44:44,886 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:44:46,736 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:44:46,737 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:47:58,993 - INFO - App loaded successfully.
+2025-05-21 20:47:59,253 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:48:01,328 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:48:01,328 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:53:01,968 - INFO - App loaded successfully.
+2025-05-21 20:53:02,252 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:53:04,537 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:53:04,537 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:53:35,110 - INFO - App loaded successfully.
+2025-05-21 20:53:35,119 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:53:37,109 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:53:37,109 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:53:40,531 - INFO - Recording started.
+2025-05-21 20:53:40,534 - INFO - Live recording started.
+2025-05-21 20:53:51,401 - INFO - App loaded successfully.
+2025-05-21 20:53:51,403 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:53:52,609 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:53:52,609 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:53:52,611 - WARNING - No audio frames captured.
+2025-05-21 20:53:52,611 - WARNING - No audio returned from stop_recording.
+2025-05-21 20:54:57,100 - INFO - App loaded successfully.
+2025-05-21 20:54:57,101 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:55:06,502 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:55:06,503 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:55:06,505 - WARNING - No audio frames captured.
+2025-05-21 20:55:06,506 - WARNING - No audio returned from stop_recording.
+2025-05-21 20:55:10,047 - INFO - App loaded successfully.
+2025-05-21 20:55:10,048 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:55:10,734 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:55:10,734 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:55:10,761 - INFO - Recording started.
+2025-05-21 20:55:10,762 - INFO - Live recording started.
+2025-05-21 20:56:12,118 - INFO - App loaded successfully.
+2025-05-21 20:56:12,121 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 20:56:20,175 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 20:56:20,175 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 20:56:20,180 - WARNING - No audio frames captured.
+2025-05-21 20:56:20,181 - WARNING - No audio returned from stop_recording.
+2025-05-21 21:11:57,003 - INFO - App loaded successfully.
+2025-05-21 21:11:57,802 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:12:01,958 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:12:01,959 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:12:04,379 - INFO - App loaded successfully.
+2025-05-21 21:12:04,380 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:12:05,350 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:12:05,350 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:12:05,813 - INFO - Recording started.
+2025-05-21 21:12:05,815 - INFO - Live recording started.
+2025-05-21 21:12:20,858 - INFO - App loaded successfully.
+2025-05-21 21:12:20,861 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:12:22,601 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:12:22,603 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:12:22,605 - WARNING - No audio frames captured.
+2025-05-21 21:12:22,606 - WARNING - No audio returned from stop_recording.
+2025-05-21 21:17:54,714 - INFO - App loaded successfully.
+2025-05-21 21:17:54,887 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:18:20,750 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:18:20,750 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:18:20,817 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:18:20,937 - INFO - Pre-recorded file copied: prerecorded_20250521_211820.wav
+2025-05-21 21:18:20,941 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:18:24,252 - INFO - App loaded successfully.
+2025-05-21 21:18:24,282 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:18:25,489 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:18:25,490 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:18:25,549 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:18:25,663 - INFO - Pre-recorded file copied: prerecorded_20250521_211825.wav
+2025-05-21 21:18:25,794 - INFO - Transcribing Uploaded file: prerecorded_20250521_211825.wav
+2025-05-21 21:18:25,797 - INFO - Transcribing file: prerecorded_20250521_211825.wav
+2025-05-21 21:18:25,882 - ERROR - Transcription error: 'str' object has no attribute 'dtype'
+2025-05-21 21:18:25.895025 - Uploaded : prerecorded_20250521_211825.wav -> prerecorded_20250521_211825.txt
+2025-05-21 21:18:25,898 - INFO - Transcription result saved to: prerecorded_20250521_211825.txt
+2025-05-21 21:18:25,903 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:29:58,922 - INFO - App loaded successfully.
+2025-05-21 21:29:59,292 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:30:02,028 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:30:02,028 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:31:46,158 - INFO - App loaded successfully.
+2025-05-21 21:31:46,373 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 21:31:50,079 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 21:31:50,080 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:32:23,101 - INFO - App loaded successfully.
+2025-05-21 21:32:23,105 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:32:23,202 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:32:24,849 - INFO - Pre-recorded file copied: prerecorded_20250521_213224.wav
+2025-05-21 21:32:27,222 - INFO - App loaded successfully.
+2025-05-21 21:32:27,223 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:32:27,294 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:32:27,650 - INFO - Pre-recorded file copied: prerecorded_20250521_213227.wav
+2025-05-21 21:32:27,654 - INFO - Transcribing Uploaded file: prerecorded_20250521_213227.wav
+2025-05-21 21:32:27,657 - INFO - Transcribing file: prerecorded_20250521_213227.wav
+2025-05-21 21:32:27,658 - ERROR - Transcription error: 'str' object has no attribute 'dtype'
+2025-05-21 21:32:27.659038 - Uploaded : prerecorded_20250521_213227.wav -> prerecorded_20250521_213227.txt
+2025-05-21 21:32:27,659 - INFO - Transcription result saved to: prerecorded_20250521_213227.txt
+2025-05-21 21:32:27,670 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:33:48,223 - INFO - App loaded successfully.
+2025-05-21 21:33:48,224 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:33:48,448 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:33:48,585 - INFO - Pre-recorded file copied: prerecorded_20250521_213348.wav
+2025-05-21 21:33:48,590 - INFO - Transcribing Uploaded file: prerecorded_20250521_213348.wav
+2025-05-21 21:33:48,592 - INFO - Transcribing file: prerecorded_20250521_213348.wav
+2025-05-21 21:33:48,592 - ERROR - Transcription error: 'str' object has no attribute 'dtype'
+2025-05-21 21:33:48.594754 - Uploaded : prerecorded_20250521_213348.wav -> prerecorded_20250521_213348.txt
+2025-05-21 21:33:48,595 - INFO - Transcription result saved to: prerecorded_20250521_213348.txt
+2025-05-21 21:33:48,610 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:34:29,698 - INFO - App loaded successfully.
+2025-05-21 21:34:29,700 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:34:29,763 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:34:29,914 - INFO - Pre-recorded file copied: prerecorded_20250521_213429.wav
+2025-05-21 21:34:30,285 - INFO - Recording started.
+2025-05-21 21:34:30,286 - INFO - Live recording started.
+2025-05-21 21:34:46,309 - INFO - App loaded successfully.
+2025-05-21 21:34:46,311 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:34:46,368 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:34:46,445 - INFO - Pre-recorded file copied: prerecorded_20250521_213446.wav
+2025-05-21 21:34:46,466 - INFO - Recording saved: audio_20250521_213446.wav
+2025-05-21 21:34:46,470 - INFO - Transcribing Live file: audio_20250521_213446.wav
+2025-05-21 21:34:46,473 - INFO - Transcribing file: audio_20250521_213446.wav
+2025-05-21 21:34:46,473 - ERROR - Transcription error: 'str' object has no attribute 'dtype'
+2025-05-21 21:34:46.475760 - Live : audio_20250521_213446.wav -> audio_20250521_213446.txt
+2025-05-21 21:34:46,476 - INFO - Transcription result saved to: audio_20250521_213446.txt
+2025-05-21 21:34:55,546 - INFO - App loaded successfully.
+2025-05-21 21:34:55,546 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 21:34:55,607 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 21:34:55,688 - INFO - Pre-recorded file copied: prerecorded_20250521_213455.wav
+2025-05-21 21:34:55,696 - INFO - Recording saved: audio_20250521_213455.wav
+2025-05-21 21:34:55,699 - INFO - Transcribing Live file: audio_20250521_213455.wav
+2025-05-21 21:34:55,700 - INFO - Transcribing file: audio_20250521_213455.wav
+2025-05-21 21:34:55,702 - ERROR - Transcription error: 'str' object has no attribute 'dtype'
+2025-05-21 21:34:55.703029 - Live : audio_20250521_213455.wav -> audio_20250521_213455.txt
+2025-05-21 21:34:55,703 - INFO - Transcription result saved to: audio_20250521_213455.txt
+2025-05-21 22:13:03,252 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 22:13:10,311 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 22:13:10,312 - INFO - App loaded successfully.
+2025-05-21 22:13:10,313 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:14:49,990 - INFO - App loaded successfully.
+2025-05-21 22:14:49,994 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:14:50,172 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:14:51,694 - INFO - Pre-recorded file copied: prerecorded_20250521_221451.wav
+2025-05-21 22:14:59,070 - INFO - App loaded successfully.
+2025-05-21 22:14:59,076 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:14:59,181 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:14:59,389 - INFO - Pre-recorded file copied: prerecorded_20250521_221459.wav
+2025-05-21 22:14:59,396 - INFO - Transcribing Uploaded file: prerecorded_20250521_221459.wav
+2025-05-21 22:14:59,396 - INFO - Transcribing file: prerecorded_20250521_221459.wav
+2025-05-21 22:15:19,289 - INFO - App loaded successfully.
+2025-05-21 22:15:19,291 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:15:19,416 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:15:19,572 - INFO - Pre-recorded file copied: prerecorded_20250521_221519.wav
+2025-05-21 22:15:19,580 - INFO - Transcribing Uploaded file: prerecorded_20250521_221519.wav
+2025-05-21 22:15:19,581 - INFO - Transcribing file: prerecorded_20250521_221519.wav
+2025-05-21 22:15:51,545 - ERROR - Transcription error: WhisperModel.transcribe() got an unexpected keyword argument 'sample_rate'
+2025-05-21 22:15:51,557 - ERROR - Transcription error: WhisperModel.transcribe() got an unexpected keyword argument 'sample_rate'
+2025-05-21 22:15:51.728696 - Uploaded : prerecorded_20250521_221519.wav -> prerecorded_20250521_221519.txt
+2025-05-21 22:15:51,728 - INFO - Transcription result saved to: prerecorded_20250521_221519.txt
+2025-05-21 22:15:51,737 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:16:05,289 - INFO - App loaded successfully.
+2025-05-21 22:16:05,290 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:16:05,353 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:16:05,458 - INFO - Pre-recorded file copied: prerecorded_20250521_221605.wav
+2025-05-21 22:16:06,241 - INFO - Recording started.
+2025-05-21 22:16:06,241 - INFO - Live recording started.
+2025-05-21 22:16:15,122 - INFO - App loaded successfully.
+2025-05-21 22:16:15,134 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:16:15,211 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:16:15,325 - INFO - Pre-recorded file copied: prerecorded_20250521_221615.wav
+2025-05-21 22:16:15,399 - INFO - Recording saved: audio_20250521_221615.wav
+2025-05-21 22:16:15,402 - INFO - Transcribing Live file: audio_20250521_221615.wav
+2025-05-21 22:16:15,403 - INFO - Transcribing file: audio_20250521_221615.wav
+2025-05-21 22:16:15,809 - ERROR - Transcription error: WhisperModel.transcribe() got an unexpected keyword argument 'sample_rate'
+2025-05-21 22:16:15.812739 - Live : audio_20250521_221615.wav -> audio_20250521_221615.txt
+2025-05-21 22:16:15,813 - INFO - Transcription result saved to: audio_20250521_221615.txt
+2025-05-21 22:16:28,210 - INFO - App loaded successfully.
+2025-05-21 22:16:28,212 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:16:28,285 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:16:28,403 - INFO - Pre-recorded file copied: prerecorded_20250521_221628.wav
+2025-05-21 22:16:28,412 - INFO - Recording saved: audio_20250521_221628.wav
+2025-05-21 22:16:28,416 - INFO - Transcribing Live file: audio_20250521_221628.wav
+2025-05-21 22:16:28,416 - INFO - Transcribing file: audio_20250521_221628.wav
+2025-05-21 22:16:28,442 - ERROR - Transcription error: WhisperModel.transcribe() got an unexpected keyword argument 'sample_rate'
+2025-05-21 22:16:28.443270 - Live : audio_20250521_221628.wav -> audio_20250521_221628.txt
+2025-05-21 22:16:28,444 - INFO - Transcription result saved to: audio_20250521_221628.txt
+2025-05-21 22:36:24,480 - INFO - App loaded successfully.
+2025-05-21 22:36:24,579 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:36:26,845 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:36:28,059 - INFO - Pre-recorded file copied: prerecorded_20250521_223627.wav
+2025-05-21 22:36:28,077 - INFO - Transcribing Uploaded file: prerecorded_20250521_223627.wav
+2025-05-21 22:36:28,085 - INFO - Transcribing file: prerecorded_20250521_223627.wav
+2025-05-21 22:36:29,705 - ERROR - Transcription error: WhisperModel.transcribe() got an unexpected keyword argument 'sample_rate'
+2025-05-21 22:36:29.739994 - Uploaded : prerecorded_20250521_223627.wav -> prerecorded_20250521_223627.txt
+2025-05-21 22:36:29,764 - INFO - Transcription result saved to: prerecorded_20250521_223627.txt
+2025-05-21 22:36:29,788 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:38:19,242 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 22:38:23,968 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 22:38:23,971 - INFO - App loaded successfully.
+2025-05-21 22:38:23,972 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:38:42,985 - INFO - App loaded successfully.
+2025-05-21 22:38:42,985 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:38:43,073 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:38:43,378 - INFO - Pre-recorded file copied: prerecorded_20250521_223843.wav
+2025-05-21 22:38:44,957 - INFO - App loaded successfully.
+2025-05-21 22:38:44,959 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:38:45,048 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:38:45,802 - INFO - Pre-recorded file copied: prerecorded_20250521_223845.wav
+2025-05-21 22:38:45,811 - INFO - Transcribing Uploaded file: prerecorded_20250521_223845.wav
+2025-05-21 22:38:45,812 - INFO - Transcribing file: prerecorded_20250521_223845.wav
+2025-05-21 22:39:03,205 - INFO - Processing audio with duration 06:51.843
+2025-05-21 22:42:37,603 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 22:42:41,781 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 22:42:41,783 - INFO - App loaded successfully.
+2025-05-21 22:42:41,784 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:43:08,604 - INFO - App loaded successfully.
+2025-05-21 22:43:08,607 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:43:08,706 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:43:09,041 - INFO - Pre-recorded file copied: prerecorded_20250521_224308.wav
+2025-05-21 22:43:14,389 - INFO - App loaded successfully.
+2025-05-21 22:43:14,390 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:43:14,493 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:43:14,700 - INFO - Pre-recorded file copied: prerecorded_20250521_224314.wav
+2025-05-21 22:43:14,707 - INFO - Transcribing Uploaded file: prerecorded_20250521_224314.wav
+2025-05-21 22:43:14,708 - INFO - Transcribing file: prerecorded_20250521_224314.wav
+2025-05-21 22:43:28,991 - INFO - Processing audio with duration 06:51.843
+2025-05-21 22:44:33,523 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 22:48:35,702 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 22:49:39,790 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-21 22:49:43,191 - INFO - Faster-Whisper model 'base' loaded.
+2025-05-21 22:49:43,194 - INFO - App loaded successfully.
+2025-05-21 22:49:43,195 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:50:05,037 - INFO - App loaded successfully.
+2025-05-21 22:50:05,039 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:50:05,114 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:50:05,430 - INFO - Pre-recorded file copied: prerecorded_20250521_225005.wav
+2025-05-21 22:50:10,918 - INFO - App loaded successfully.
+2025-05-21 22:50:10,920 - INFO - Recorder and Transcriber instantiated.
+2025-05-21 22:50:11,011 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-21 22:50:11,206 - INFO - Pre-recorded file copied: prerecorded_20250521_225011.wav
+2025-05-21 22:50:11,213 - INFO - Transcribing Uploaded file: prerecorded_20250521_225011.wav
+2025-05-21 22:50:11,214 - INFO - Transcribing file: prerecorded_20250521_225011.wav
+2025-05-21 22:50:23,418 - INFO - Processing audio with duration 06:51.843
+2025-05-22 00:13:15,659 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-22 00:13:15,662 - ERROR - Invalid model name `models/ggml-base.en.bin`, available models are: ['base', 'base-q5_1', 'base-q8_0', 'base.en', 'base.en-q5_1', 'base.en-q8_0', 'large-v1', 'large-v2', 'large-v2-q5_0', 'large-v2-q8_0', 'large-v3', 'large-v3-q5_0', 'large-v3-turbo', 'large-v3-turbo-q5_0', 'large-v3-turbo-q8_0', 'medium', 'medium-q5_0', 'medium-q8_0', 'medium.en', 'medium.en-q5_0', 'medium.en-q8_0', 'small', 'small-q5_1', 'small-q8_0', 'small.en', 'small.en-q5_1', 'small.en-q8_0', 'tiny', 'tiny-q5_1', 'tiny-q8_0', 'tiny.en', 'tiny.en-q5_1', 'tiny.en-q8_0']
+2025-05-22 00:13:15,664 - INFO - Initializing the model ...
+2025-05-22 00:14:59,498 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-22 00:14:59,500 - INFO - No download directory was provided, models will be downloaded to C:\Users\Surya\AppData\Local\pywhispercpp\pywhispercpp\models
+2025-05-22 00:15:05,525 - INFO - Model downloaded to C:\Users\Surya\AppData\Local\pywhispercpp\pywhispercpp\models\ggml-base.bin
+2025-05-22 00:15:05,526 - INFO - Initializing the model ...
+2025-05-22 00:15:05,931 - INFO - Whisper.cpp model loaded from: base
+2025-05-22 00:15:05,932 - INFO - App loaded successfully.
+2025-05-22 00:15:05,932 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:15:41,760 - INFO - App loaded successfully.
+2025-05-22 00:15:41,761 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:15:41,842 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 00:15:41,959 - INFO - Pre-recorded file copied: prerecorded_20250522_001541.wav
+2025-05-22 00:15:43,697 - INFO - App loaded successfully.
+2025-05-22 00:15:43,698 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:15:43,772 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 00:15:43,863 - INFO - Pre-recorded file copied: prerecorded_20250522_001543.wav
+2025-05-22 00:15:43,865 - INFO - Transcribing Uploaded file: prerecorded_20250522_001543.wav
+2025-05-22 00:15:43,866 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250522_001543.wav
+2025-05-22 00:15:43,867 - ERROR - Transcription error: 'WindowsPath' object has no attribute 'endswith'
+2025-05-22 00:15:43.867362 - Uploaded : prerecorded_20250522_001543.wav -> prerecorded_20250522_001543.txt
+2025-05-22 00:15:43,868 - INFO - Transcription result saved to: prerecorded_20250522_001543.txt
+2025-05-22 00:15:43,875 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 00:20:16,896 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-22 00:20:16,897 - INFO - No download directory was provided, models will be downloaded to C:\Users\Surya\AppData\Local\pywhispercpp\pywhispercpp\models
+2025-05-22 00:20:16,899 - INFO - Model base already exists in C:\Users\Surya\AppData\Local\pywhispercpp\pywhispercpp\models
+2025-05-22 00:20:16,899 - INFO - Initializing the model ...
+2025-05-22 00:20:17,498 - INFO - Whisper.cpp model loaded from: base
+2025-05-22 00:20:17,499 - INFO - App loaded successfully.
+2025-05-22 00:20:17,500 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:20:21,815 - INFO - App loaded successfully.
+2025-05-22 00:20:21,816 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:20:22,017 - INFO - Recording started.
+2025-05-22 00:20:22,019 - INFO - Live recording started.
+2025-05-22 00:20:32,208 - INFO - App loaded successfully.
+2025-05-22 00:20:32,209 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:20:32,252 - INFO - Recording saved: audio_20250522_002032.wav
+2025-05-22 00:20:32,256 - INFO - Transcribing Live file: audio_20250522_002032.wav
+2025-05-22 00:20:32,257 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250522_002032.wav
+2025-05-22 00:20:32,275 - ERROR - Transcription error: WAV file must be 16000 Hz
+2025-05-22 00:20:32.276145 - Live : audio_20250522_002032.wav -> audio_20250522_002032.txt
+2025-05-22 00:20:32,277 - INFO - Transcription result saved to: audio_20250522_002032.txt
+2025-05-22 00:46:13,793 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-22 00:46:21,902 - INFO - Whisper model 'base' loaded.
+2025-05-22 00:46:21,919 - INFO - App loaded successfully.
+2025-05-22 00:46:21,926 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:46:28,410 - INFO - App loaded successfully.
+2025-05-22 00:46:28,421 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:46:29,872 - INFO - Recording started.
+2025-05-22 00:46:29,879 - INFO - Live recording started.
+2025-05-22 00:46:37,753 - INFO - App loaded successfully.
+2025-05-22 00:46:37,754 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:46:37,804 - INFO - Recording saved: audio_20250522_004637.wav
+2025-05-22 00:46:37,810 - INFO - Transcribing Live file: audio_20250522_004637.wav
+2025-05-22 00:46:37,811 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250522_004637.wav
+2025-05-22 00:46:59,183 - INFO - Detected language: en
+2025-05-22 00:46:59,189 - ERROR - Transcription error: Object of type WindowsPath is not JSON serializable
+2025-05-22 00:46:59,191 - ERROR - Error during stop/transcription: 'str' object has no attribute 'exists'
+2025-05-22 00:55:57,892 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-22 00:55:59,440 - INFO - Whisper model 'base' loaded.
+2025-05-22 00:55:59,442 - INFO - App loaded successfully.
+2025-05-22 00:55:59,442 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:56:02,935 - INFO - App loaded successfully.
+2025-05-22 00:56:02,936 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:56:03,455 - INFO - Recording started.
+2025-05-22 00:56:03,456 - INFO - Live recording started.
+2025-05-22 00:56:10,166 - INFO - App loaded successfully.
+2025-05-22 00:56:10,167 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:56:10,380 - INFO - Recording saved: audio_20250522_005610.wav
+2025-05-22 00:56:10,384 - INFO - Transcribing Live file: audio_20250522_005610.wav
+2025-05-22 00:56:10,385 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250522_005610.wav
+2025-05-22 00:56:24,058 - INFO - Detected language: en
+2025-05-22 00:56:24.892879 - Live : audio_20250522_005610.wav -> audio_20250522_005610.txt
+2025-05-22 00:56:24,892 - INFO - Transcription result saved to: audio_20250522_005610.txt
+2025-05-22 00:56:25,081 - INFO - Detected language: EN
+2025-05-22 00:57:14,537 - INFO - App loaded successfully.
+2025-05-22 00:57:14,539 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:57:14,617 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 00:57:14,914 - INFO - Pre-recorded file copied: prerecorded_20250522_005714.wav
+2025-05-22 00:57:20,523 - INFO - App loaded successfully.
+2025-05-22 00:57:20,523 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 00:57:20,718 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 00:57:21,011 - INFO - Pre-recorded file copied: prerecorded_20250522_005720.wav
+2025-05-22 00:57:21,015 - INFO - Transcribing Uploaded file: prerecorded_20250522_005720.wav
+2025-05-22 00:57:21,017 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250522_005720.wav
+2025-05-22 00:58:31,986 - INFO - Detected language: en
+2025-05-22 00:58:32.639156 - Uploaded : prerecorded_20250522_005720.wav -> prerecorded_20250522_005720.txt
+2025-05-22 00:58:32,639 - INFO - Transcription result saved to: prerecorded_20250522_005720.txt
+2025-05-22 00:58:33,068 - INFO - Detected language: EN
+2025-05-22 00:58:33,080 - INFO - Deleted temp file: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 01:01:50,452 - INFO - App loaded successfully.
+2025-05-22 01:01:50,453 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 01:01:50,673 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 01:01:51,170 - INFO - Pre-recorded file copied: prerecorded_20250522_010150.wav
+2025-05-22 01:01:51,528 - INFO - Recording started.
+2025-05-22 01:01:51,528 - INFO - Live recording started.
+2025-05-22 01:02:05,179 - INFO - App loaded successfully.
+2025-05-22 01:02:05,180 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 01:02:05,254 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 01:02:05,630 - INFO - Pre-recorded file copied: prerecorded_20250522_010205.wav
+2025-05-22 01:02:06,142 - INFO - Recording saved: audio_20250522_010205.wav
+2025-05-22 01:02:06,145 - INFO - Transcribing Live file: audio_20250522_010205.wav
+2025-05-22 01:02:06,146 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250522_010205.wav
+2025-05-22 01:02:13,975 - INFO - Detected language: en
+2025-05-22 01:02:15.466881 - Live : audio_20250522_010205.wav -> audio_20250522_010205.txt
+2025-05-22 01:02:15,467 - INFO - Transcription result saved to: audio_20250522_010205.txt
+2025-05-22 01:02:15,802 - INFO - Detected language: EN
+2025-05-22 01:02:31,576 - INFO - App loaded successfully.
+2025-05-22 01:02:31,584 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 01:02:31,665 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 01:02:31,846 - INFO - Pre-recorded file copied: prerecorded_20250522_010231.wav
+2025-05-22 01:02:31,947 - INFO - Recording saved: audio_20250522_010231.wav
+2025-05-22 01:02:31,998 - INFO - Transcribing Live file: audio_20250522_010231.wav
+2025-05-22 01:02:32,000 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250522_010231.wav
+2025-05-22 01:02:36,055 - INFO - App loaded successfully.
+2025-05-22 01:02:36,059 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 01:02:36,171 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 01:02:36,334 - INFO - Pre-recorded file copied: prerecorded_20250522_010236.wav
+2025-05-22 01:02:36,490 - INFO - Recording started.
+2025-05-22 01:02:36,490 - INFO - Live recording started.
+2025-05-22 01:02:39,839 - INFO - Detected language: en
+2025-05-22 01:02:50,236 - INFO - App loaded successfully.
+2025-05-22 01:02:50,237 - INFO - Recorder and Transcriber instantiated.
+2025-05-22 01:02:50,324 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-22 01:02:50,639 - INFO - Pre-recorded file copied: prerecorded_20250522_010250.wav
+2025-05-22 01:02:50,769 - INFO - Recording saved: audio_20250522_010250.wav
+2025-05-22 01:02:50,772 - INFO - Transcribing Live file: audio_20250522_010250.wav
+2025-05-22 01:02:50,772 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250522_010250.wav
+2025-05-22 01:04:13,448 - INFO - Detected language: te
+2025-05-22 01:04:13.460185 - Live : audio_20250522_010250.wav -> audio_20250522_010250.txt
+2025-05-22 01:04:13,460 - INFO - Transcription result saved to: audio_20250522_010250.txt
+2025-05-22 01:04:13,978 - INFO - Detected language: TE
+2025-05-22 01:04:14,024 - WARNING - Language warning: Non-English language detected (te)
+2025-05-22 12:59:55,989 - INFO - Use pytorch device_name: cpu
+2025-05-22 12:59:55,991 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 13:00:11,554 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-22 13:25:59,034 - INFO - Use pytorch device_name: cpu
+2025-05-22 13:25:59,035 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 13:26:08,342 - INFO - Loading cached phrase bank.
+2025-05-22 13:28:33,593 - INFO - Use pytorch device_name: cpu
+2025-05-22 13:28:33,593 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 13:28:37,872 - INFO - Loading cached phrase bank.
+2025-05-22 13:32:30,394 - INFO - Use pytorch device_name: cpu
+2025-05-22 13:32:30,394 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 13:32:33,211 - WARNING -  Permission denied while reading phrase bank: [Errno 13] Permission denied: 'C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\Embeddings\\phrase_bank.json'. Proceeding with empty bank.
+2025-05-22 13:32:33,212 - INFO - Generating phrases for topic: 'salary'
+2025-05-22 13:33:38,274 - ERROR - Failed to call Ollama or parse response: Expecting value: line 2 column 1 (char 1)
+2025-05-22 13:33:38,284 - INFO - Generating phrases for topic: 'health'
+2025-05-22 13:34:03,470 - INFO - Generating phrases for topic: 'nda'
+2025-05-22 13:45:11,299 - INFO - Use pytorch device_name: cpu
+2025-05-22 13:45:11,300 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 13:46:05,487 - ERROR - Failed to call Ollama or parse response: name 'json' is not defined
+2025-05-22 13:46:44,684 - ERROR - Failed to call Ollama or parse response: name 'json' is not defined
+2025-05-22 13:47:19,388 - ERROR - Failed to call Ollama or parse response: name 'json' is not defined
+2025-05-22 13:59:40,568 - INFO - Use pytorch device_name: cpu
+2025-05-22 13:59:40,569 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 13:59:44,940 - ERROR -  Error reading C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings: [Errno 13] Permission denied: 'C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\Embeddings'
+2025-05-22 13:59:44,940 - INFO -  Generating phrases for topic: 'salary'
+2025-05-22 14:00:32,190 - ERROR - Failed to call Ollama or parse response: name 'json' is not defined
+2025-05-22 14:00:32,441 - INFO -  Generating phrases for topic: 'health'
+2025-05-22 14:00:56,156 - ERROR - Failed to call Ollama or parse response: name 'json' is not defined
+2025-05-22 14:00:56,162 - INFO -  Generating phrases for topic: 'nda'
+2025-05-22 14:02:07,479 - ERROR - Failed to call Ollama or parse response: name 'json' is not defined
+2025-05-22 14:02:08,071 - ERROR -  Failed to write C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings: [Errno 13] Permission denied: 'C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\Embeddings'
+2025-05-22 14:02:08,089 - INFO -  Built embedding index from phrase bank.
+2025-05-22 14:02:08,092 - ERROR -  Failed to write C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings: [Errno 13] Permission denied: 'C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\Embeddings'
+2025-05-22 14:02:08,105 - INFO - Completed generation and embedding for topics: ['salary', 'health', 'nda']
+2025-05-22 14:10:57,554 - INFO - Use pytorch device_name: cpu
+2025-05-22 14:10:57,555 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 14:11:00,783 - INFO - Use pytorch device_name: cpu
+2025-05-22 14:11:00,784 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 14:11:05,945 - INFO -  File not found: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_bank.json
+2025-05-22 14:11:05,946 - INFO -  Generating phrases for topic: 'salary'
+2025-05-22 14:11:57,813 - ERROR - Failed to call Ollama or parse response: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-05-22 14:11:57,818 - INFO -  Generating phrases for topic: 'health'
+2025-05-22 14:12:23,251 - INFO -  Generating phrases for topic: 'nda'
+2025-05-22 14:21:29,393 - INFO - Use pytorch device_name: cpu
+2025-05-22 14:21:29,394 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 14:21:32,358 - INFO -  File not found: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_bank.json
+2025-05-22 14:21:32,358 - INFO -  Generating phrases for topic: 'salary'
+2025-05-22 14:22:22,027 - INFO -  Generating phrases for topic: 'health'
+2025-05-22 14:22:59,339 - ERROR -  Failed to parse Ollama JSON response: Expecting value: line 2 column 1 (char 1)
+2025-05-22 14:22:59,340 - INFO -  Generating phrases for topic: 'nda'
+2025-05-22 14:24:45,036 - ERROR -  Failed to parse Ollama JSON response: Extra data: line 11 column 4 (char 1124)
+2025-05-22 14:24:45,367 - INFO -  Saved JSON to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_bank.json
+2025-05-22 14:24:45,766 - INFO -  Built embedding index from phrase bank.
+2025-05-22 14:24:45,778 - INFO -  Saved JSON to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_embeddings.json
+2025-05-22 14:24:45,779 - INFO - Completed generation and embedding for topics: ['salary', 'health', 'nda']
+2025-05-22 14:34:16,356 - INFO - Use pytorch device_name: cpu
+2025-05-22 14:34:16,357 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-22 14:34:19,877 - INFO -  File not found: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_bank.json
+2025-05-22 14:34:19,877 - INFO -  Generating phrases for topic: 'salary'
+2025-05-22 14:37:16,271 - ERROR -  Attempt 1: Failed to parse Ollama response for topic 'salary': Extra data: line 17 column 4 (char 870)
+2025-05-22 14:37:43,597 - ERROR -  Attempt 2: Failed to parse Ollama response for topic 'salary': Expecting ',' delimiter: line 10 column 3 (char 482)
+2025-05-22 14:37:58,498 - INFO -  Generating phrases for topic: 'health'
+2025-05-22 14:38:20,347 - INFO -  Generating phrases for topic: 'nda'
+2025-05-22 14:38:48,431 - INFO -  Saved JSON to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_bank.json
+2025-05-22 14:38:48,929 - INFO -  Built embedding index from phrase bank.
+2025-05-22 14:38:48,952 - INFO -  Saved JSON to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\Embeddings\phrase_embeddings.json
+2025-05-22 14:38:48,952 - INFO - Completed generation and embedding for topics: ['salary', 'health', 'nda']
+2025-05-22 16:20:04,985 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250522_005720.json
+2025-05-22 16:20:05,013 - INFO - Classifying 19 segments with topics: ['salary', 'mental health', 'nda', 'termination', 'harassment']
+2025-05-22 16:35:02,797 - INFO -  Full JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\classified_transcript_20250522_005720.json
+2025-05-22 16:35:09,424 - INFO -  Redacted: 0, Rephrased: 0, Safe: 19
+2025-05-22 16:35:10,537 - INFO -  Redacted JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_transcript_20250522_005720.json
+2025-05-22 16:35:10,865 - INFO -  Redacted text saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_text_20250522_005720.txt
+2025-05-22 16:35:11,075 - INFO -  Privacy report saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\privacy_report_20250522_005720.txt
+2025-05-22 16:47:15,545 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250522_005720.json
+2025-05-22 16:47:15,546 - INFO - Classifying 19 segments with topics: ['salary', 'mental health', 'gossip', 'project', 'harassment']
+2025-05-22 16:56:34,846 - INFO -  Full JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\classified_transcript_20250522_005720.json
+2025-05-22 16:56:50,458 - INFO -  Redacted: 2, Rephrased: 1, Safe: 16
+2025-05-22 16:56:50,476 - INFO -  Redacted JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_transcript_20250522_005720.json
+2025-05-22 16:56:50,479 - INFO -  Redacted text saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_text_20250522_005720.txt
+2025-05-22 16:57:44,181 - INFO -  Privacy report saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\privacy_report_20250522_005720.txt
+2025-05-22 17:23:28,043 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250522_005720.json
+2025-05-22 17:23:28,050 - INFO - Classifying 19 segments with topics: ['salary', 'mental health', 'gossip', 'project', 'harassment']
+2025-05-22 17:30:39,977 - INFO -  Full JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\classified_transcript_20250522_005720.json
+2025-05-22 17:30:54,202 - INFO -  Redacted: 2, Rephrased: 1, Safe: 16
+2025-05-22 17:30:54,412 - INFO -  Redacted JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_transcript_20250522_005720.json
+2025-05-22 17:30:54,657 - INFO -  Redacted text saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_text_20250522_005720.txt
+2025-05-22 17:30:54,748 - INFO -  Privacy report saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\privacy_report_20250522_005720.txt
+2025-05-22 19:33:50,342 - INFO - Saved uploaded file: C:\Users\Surya\AppData\Local\Temp\tmp2ly1tqsw\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-23 00:00:12,351 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 00:00:15,573 - INFO - Whisper model 'base' loaded.
+2025-05-23 00:00:15,577 - INFO - App loaded successfully.
+2025-05-23 00:00:15,577 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:00:51,245 - INFO - App loaded successfully.
+2025-05-23 00:00:51,247 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:00:51,366 - INFO - Saved uploaded file: C:\Users\Surya\AppData\Local\Temp\tmp7tlauofo\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-23 00:00:51,368 - INFO - Transcribing: C:\Users\Surya\AppData\Local\Temp\tmp7tlauofo\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-23 00:02:46,131 - INFO - Detected language: en
+2025-05-23 00:02:46.152326 - Uploaded : ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav -> Processed
+2025-05-23 00:04:18,726 - INFO - App loaded successfully.
+2025-05-23 00:04:18,729 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:04:19,080 - INFO - Saved uploaded file: C:\Users\Surya\AppData\Local\Temp\tmpzo6k_xc0\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-23 00:04:19,084 - INFO - Transcribing: C:\Users\Surya\AppData\Local\Temp\tmpzo6k_xc0\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-23 00:05:56,741 - INFO - Detected language: en
+2025-05-23 00:07:07,959 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 00:07:11,568 - INFO - Whisper model 'base' loaded.
+2025-05-23 00:07:11,572 - INFO - App loaded successfully.
+2025-05-23 00:07:11,572 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:07:18,757 - INFO - App loaded successfully.
+2025-05-23 00:07:18,758 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:07:21,101 - INFO - Recording started.
+2025-05-23 00:07:37,963 - INFO - App loaded successfully.
+2025-05-23 00:07:37,967 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:07:38,101 - INFO - Recording saved: audio_20250523_000738.wav
+2025-05-23 00:07:44,047 - INFO - App loaded successfully.
+2025-05-23 00:07:44,050 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:23:20,199 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 00:23:23,180 - INFO - Whisper model 'base' loaded.
+2025-05-23 00:23:23,180 - INFO - App loaded successfully.
+2025-05-23 00:23:23,180 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:23:34,160 - INFO - App loaded successfully.
+2025-05-23 00:23:34,161 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:23:34,368 - INFO - App loaded successfully.
+2025-05-23 00:23:34,370 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:23:36,470 - INFO - Recording started.
+2025-05-23 00:23:36,471 - INFO - Live recording started.
+2025-05-23 00:23:54,854 - INFO - App loaded successfully.
+2025-05-23 00:23:54,854 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:23:54,994 - INFO - Recording saved: audio_20250523_002354.wav
+2025-05-23 00:23:59,651 - INFO - App loaded successfully.
+2025-05-23 00:23:59,651 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:37:33,544 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 00:37:36,418 - INFO - Whisper model 'base' loaded.
+2025-05-23 00:37:36,418 - INFO - App loaded successfully.
+2025-05-23 00:37:36,418 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:38:24,222 - INFO - App loaded successfully.
+2025-05-23 00:38:24,225 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:38:25,440 - INFO - Recording started.
+2025-05-23 00:38:25,440 - INFO - Live recording started.
+2025-05-23 00:38:45,988 - INFO - App loaded successfully.
+2025-05-23 00:38:45,988 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:38:46,145 - INFO - Recording saved: audio_20250523_003846.wav
+2025-05-23 00:38:50,533 - INFO - App loaded successfully.
+2025-05-23 00:38:50,534 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:47:26,494 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 00:47:29,353 - INFO - Whisper model 'base' loaded.
+2025-05-23 00:47:29,353 - INFO - App loaded successfully.
+2025-05-23 00:47:29,355 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:47:48,722 - INFO - App loaded successfully.
+2025-05-23 00:47:48,724 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 00:47:48,738 - INFO - Saved uploaded file: C:\Users\Surya\AppData\Local\Temp\tmpop62nn7z\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).mp3
+2025-05-23 00:47:48,742 - INFO - Transcribing: C:\Users\Surya\AppData\Local\Temp\tmpop62nn7z\uploaded_ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).mp3
+2025-05-23 00:49:02,111 - INFO - Detected language: en
+2025-05-23 00:49:02.125887 - Uploaded : ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).mp3 -> Processed
+2025-05-23 01:25:45,302 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 01:25:46,463 - INFO - Whisper model 'base' loaded.
+2025-05-23 01:25:46,465 - INFO - App loaded successfully.
+2025-05-23 01:25:46,465 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 01:26:28,537 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 01:26:29,776 - INFO - Whisper model 'base' loaded.
+2025-05-23 01:26:29,777 - INFO - App loaded successfully.
+2025-05-23 01:26:29,777 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 01:27:07,904 - INFO - App loaded successfully.
+2025-05-23 01:27:07,905 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 01:27:08,045 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).wav
+2025-05-23 01:27:09,710 - INFO - Pre-recorded file copied: prerecorded_20250523_012709.wav
+2025-05-23 01:32:31,777 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 01:32:33,711 - INFO - Whisper model 'base' loaded.
+2025-05-23 01:32:33,713 - INFO - App loaded successfully.
+2025-05-23 01:32:33,713 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 01:32:58,714 - INFO - App loaded successfully.
+2025-05-23 01:32:58,714 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 01:32:58,934 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).mp3
+2025-05-23 01:32:59,921 - INFO - Pre-recorded file copied: prerecorded_20250523_013259.wav
+2025-05-23 01:32:59,923 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250523_013259.wav
+2025-05-23 01:33:18,193 - INFO - App loaded successfully.
+2025-05-23 01:33:18,193 - INFO - Recorder and Transcriber instantiated.
+2025-05-23 01:33:18,213 - INFO - File uploaded: ytmp3free.cc_more-retailers-could-raise-prices-after-walmarts-tariff-warning-youtubemp3free.org (1).mp3
+2025-05-23 01:33:18,266 - INFO - Pre-recorded file copied: prerecorded_20250523_013318.wav
+2025-05-23 01:33:18,270 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250523_013318.wav
+2025-05-23 01:33:28,803 - ERROR - Transcription error: cannot reshape tensor of 0 elements into shape [5, 0, 8, -1] because the unspecified dimension size -1 can be any value and is ambiguous
+2025-05-23 01:34:23,254 - INFO - Detected language: en
+2025-05-23 01:34:23,262 - INFO - Transcribing Uploaded file: prerecorded_20250523_013318.wav
+2025-05-23 01:34:24,471 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\prerecorded_20250523_013318.json
+2025-05-23 01:34:24,473 - INFO - Classifying 16 segments with topics: ['privacy']
+2025-05-23 01:34:35,594 - ERROR - Classification failed: I do expect other retailers to follow in... => Expecting value: line 1 column 1 (char 0)
+2025-05-23 01:34:38,264 - ERROR - Classification failed: retailer like Walmart is able to come up... => Expecting value: line 1 column 1 (char 0)
+2025-05-23 01:34:40,963 - ERROR - Classification failed: lock steps. So I absolutely do expect ot... => Expecting value: line 1 column 1 (char 0)
+2025-05-23 01:52:14,293 - ERROR - Classification failed: is all what is this impact going to have... => Expecting value: line 1 column 1 (char 0)
+2025-05-23 01:58:43,411 - ERROR - Classification failed: lead to more inflation. If you lead to i... => Expecting value: line 1 column 1 (char 0)
+2025-05-23 02:31:56,823 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 02:32:04,765 - INFO - Whisper model 'base' loaded.
+2025-05-23 02:32:51,038 - INFO - Recording started.
+2025-05-23 02:32:56,124 - INFO - Recording saved: audio_20250523_023256.wav
+2025-05-23 02:33:02,161 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\recorded_20250523_023256.wav
+2025-05-23 02:33:36,937 - INFO - Detected language: en
+2025-05-23 03:01:10,207 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\app\audio_data\audio_files
+2025-05-23 03:01:11,118 - INFO - Recording started.
+2025-05-23 03:01:33,307 - INFO - Recording saved: audio_20250523_030133.wav
+2025-05-23 03:01:43,280 - INFO - Whisper model 'base' loaded.
+2025-05-23 03:01:43,280 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\app\audio_data\audio_files\audio_20250523_030133.wav
+2025-05-23 03:09:28,332 - INFO - Detected language: en
+2025-05-23 03:33:52,813 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 03:33:53,185 - INFO - Recording started.
+2025-05-23 03:34:32,279 - INFO - Recording saved: audio_20250523_033432.wav
+2025-05-23 03:34:34,059 - INFO - Whisper model 'base' loaded.
+2025-05-23 03:34:34,059 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_033432.wav
+2025-05-23 03:35:19,269 - INFO - Transcription saved: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_20250523_033432.json
+2025-05-23 03:42:20,894 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 03:42:22,683 - INFO - Whisper model 'base' loaded.
+2025-05-23 03:43:24,068 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_023256.wav
+2025-05-23 03:43:34,286 - INFO - Transcription saved: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_023256.json
+2025-05-23 03:43:34,286 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_023256.json
+2025-05-23 03:43:34,311 - INFO - Classifying 1 segments with topics: ['salary', 'gossip']
+2025-05-23 03:44:39,188 - INFO -  Full JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\classified_transcript_20250523_023256.json
+2025-05-23 03:44:39,196 - INFO -  Redacted: 0, Rephrased: 0, Safe: 1
+2025-05-23 03:44:39,198 - INFO -  Redacted JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_transcript_20250523_023256.json
+2025-05-23 03:44:39,201 - INFO -  Redacted text saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_text_20250523_023256.txt
+2025-05-23 03:44:39,204 - INFO -  Privacy report saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\privacy_report_20250523_023256.txt
+2025-05-23 03:54:11,594 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 03:54:12,716 - INFO - Whisper model 'base' loaded.
+2025-05-23 03:54:18,936 - INFO - Recording started.
+2025-05-23 03:54:24,037 - INFO - Recording saved: audio_20250523_035424.wav
+2025-05-23 03:54:47,649 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\recorded_20250523_035424.wav
+2025-05-23 03:55:01,680 - INFO - Transcription saved: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\recorded_20250523_035424.json
+2025-05-23 03:55:01,680 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\recorded_20250523_035424.json
+2025-05-23 03:55:01,695 - INFO - Classifying 1 segments with topics: ['mental health']
+2025-05-23 03:56:18,586 - INFO -  Full JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\classified_transcript_20250523_035424.json
+2025-05-23 03:56:19,068 - INFO -  Redacted: 0, Rephrased: 0, Safe: 1
+2025-05-23 03:56:19,095 - INFO -  Redacted JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_transcript_20250523_035424.json
+2025-05-23 03:56:19,420 - INFO -  Redacted text saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_text_20250523_035424.txt
+2025-05-23 03:56:19,877 - INFO -  Privacy report saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\privacy_report_20250523_035424.txt
+2025-05-23 04:14:04,108 - INFO - FakeTensor cache stats:
+2025-05-23 04:14:04,122 - INFO -   cache_hits: 0
+2025-05-23 04:14:04,124 - INFO -   cache_misses: 0
+2025-05-23 04:14:33,341 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 04:14:38,861 - INFO - Whisper model 'base' loaded.
+2025-05-23 04:16:00,349 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_023256.wav
+2025-05-23 04:16:45,358 - INFO - Transcription saved: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_023256.json
+2025-05-23 04:16:45,361 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_023256.json
+2025-05-23 04:16:45,384 - INFO - Classifying 1 segments with topics: ['salary', 'nda', 'mental health']
+2025-05-23 06:32:00,033 - INFO - AudioInputManager initialized at: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files
+2025-05-23 06:32:00,669 - INFO - Recording started.
+2025-05-23 06:32:31,712 - INFO - Recording saved: audio_20250523_063231.wav
+2025-05-23 06:32:33,474 - INFO - Whisper model 'base' loaded.
+2025-05-23 06:32:33,474 - INFO - Transcribing: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_files\audio_20250523_063231.wav
+2025-05-23 06:32:51,143 - INFO - Transcription saved: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_20250523_063231.json
+2025-05-23 06:32:51,143 - INFO -  Loading transcript: C:\Users\Surya\PycharmProjects\ProjectChallenge1\audio_data\audio_20250523_063231.json
+2025-05-23 06:32:51,269 - INFO - Classifying 2 segments with topics: ['harassment', 'confidential', 'salary', 'mental health']
+2025-05-23 06:35:22,593 - INFO -  Full JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\classified_transcript_20250523_063231.json
+2025-05-23 06:35:22,913 - INFO -  Redacted: 0, Rephrased: 0, Safe: 2
+2025-05-23 06:35:23,264 - INFO -  Redacted JSON saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_transcript_20250523_063231.json
+2025-05-23 06:35:23,583 - INFO -  Redacted text saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\redacted_text_20250523_063231.txt
+2025-05-23 06:35:23,589 - INFO -  Privacy report saved to: C:\Users\Surya\PycharmProjects\ProjectChallenge1\Outputs\privacy_report_20250523_063231.txt
+2025-05-23 06:35:23,589 - INFO - Pipeline completed.

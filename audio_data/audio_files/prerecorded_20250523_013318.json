@@ -1,0 +1,140 @@
+{
+    "file": "C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\audio_files\\prerecorded_20250523_013318.wav",
+    "language": "en",
+    "language_warning": {
+        "triggered": false,
+        "severity": "None",
+        "message": ""
+    },
+    "segments": [
+        {
+            "start": "00:00.000",
+            "end": "00:08.199",
+            "text": "I do expect other retailers to follow in Walmart's steps in large part because once a large global",
+            "confidence": 0.89,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "00:08.199",
+            "end": "00:13.500",
+            "text": "retailer like Walmart is able to come up and say that this is what we are planning on doing and",
+            "confidence": 0.9734,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "00:30.000",
+            "end": "00:38.820",
+            "text": "lock steps. So I absolutely do expect others to make similar announcements. Now what is interesting",
+            "confidence": 0.8335,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "00:38.820",
+            "end": "00:46.719",
+            "text": "is all what is this impact going to have on inflation because once you raise prices you absolutely",
+            "confidence": 0.8445,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "00:46.719",
+            "end": "00:53.780",
+            "text": "lead to more inflation. If you lead to inflation you typically are going to force the Fed's hand to",
+            "confidence": 0.9594,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "00:53.780",
+            "end": "01:02.859",
+            "text": "also raise interest rates to kind of keep inflation in check. And if that sort of set of dominoes all",
+            "confidence": 0.9373,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:02.859",
+            "end": "01:09.799",
+            "text": "fall then we may have another downturn and that would make the likelihood of a recession",
+            "confidence": 0.8905,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:10.740",
+            "end": "01:17.719",
+            "text": "probably higher. So there's still a lot that remains to be seen. The one piece of the calculation",
+            "confidence": 0.9886,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:17.719",
+            "end": "01:27.280",
+            "text": "because I do think a lot of the goal of tariffs is to realign global trade and to make the U.S.",
+            "confidence": 0.9208,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:27.579",
+            "end": "01:36.159",
+            "text": "more competitive and to truly put American consumers and even American businesses in a more",
+            "confidence": 0.9324,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:36.159",
+            "end": "01:44.200",
+            "text": "favorable position. But one I think unintended consequence will be if so many businesses like",
+            "confidence": 0.9021,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:44.290",
+            "end": "01:50.329",
+            "text": "Walmart and others are so spooked by tariffs that they raise their prices and if they raise their",
+            "confidence": 0.9088,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:50.329",
+            "end": "01:57.349",
+            "text": "prices you know kind of even before tariffs have the ability to have an impact on their actual",
+            "confidence": 0.9046,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "01:57.349",
+            "end": "02:04.170",
+            "text": "prices we end up with a similar inflation spiral to what we had a few years ago and that was not",
+            "confidence": 0.9696,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "02:04.170",
+            "end": "02:10.009",
+            "text": "a great time for either the economy or consumer confidence or the stock market and we may see",
+            "confidence": 0.9696,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        },
+        {
+            "start": "02:10.009",
+            "end": "02:12.189",
+            "text": "essentially a reduction in that.",
+            "confidence": 0.4767,
+            "topic_matches": [],
+            "sensitivity": "Unlabeled"
+        }
+    ],
+    "raw_text": "I do expect other retailers to follow in Walmart's steps in large part because once a large global retailer like Walmart is able to come up and say that this is what we are planning on doing and lock steps. So I absolutely do expect others to make similar announcements. Now what is interesting is all what is this impact going to have on inflation because once you raise prices you absolutely lead to more inflation. If you lead to inflation you typically are going to force the Fed's hand to also raise interest rates to kind of keep inflation in check. And if that sort of set of dominoes all fall then we may have another downturn and that would make the likelihood of a recession probably higher. So there's still a lot that remains to be seen. The one piece of the calculation because I do think a lot of the goal of tariffs is to realign global trade and to make the U.S. more competitive and to truly put American consumers and even American businesses in a more favorable position. But one I think unintended consequence will be if so many businesses like Walmart and others are so spooked by tariffs that they raise their prices and if they raise their prices you know kind of even before tariffs have the ability to have an impact on their actual prices we end up with a similar inflation spiral to what we had a few years ago and that was not a great time for either the economy or consumer confidence or the stock market and we may see essentially a reduction in that."
+}

@@ -1,0 +1,12 @@
+ Privacy Scan Summary — 20250522_005720
+
+    Total Segments: 19
+    Safe: 16
+    Rephrased (Warning): 1
+    Redacted (Critical): 2
+
+    Top Flagged Rationales:
+    - Discusses salary, a sensitive topic in the workplace
+- Disclosure of project details, which can be confidential, is a policy violation.
+- This message contains personal insults, which is considered harassment.
+    

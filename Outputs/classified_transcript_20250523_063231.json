@@ -1,0 +1,28 @@
+{
+  "file": "C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\audio_files\\audio_20250523_063231.wav",
+  "language": "en",
+  "language_warning": {
+    "triggered": false,
+    "severity": "None",
+    "message": ""
+  },
+  "segments": [
+    {
+      "start": "00:17.640",
+      "end": "00:23.660",
+      "text": "I consider adding this directory to path or if you prefer to suppress this warning.",
+      "confidence": 0.8873,
+      "sensitivity": "Safe",
+      "rationale": "The message does not discuss sensitive topics such as harassment, confidential matters, salary information, or mental health."
+    },
+    {
+      "start": "00:23.660",
+      "end": "00:26.140",
+      "text": "Thank you.",
+      "confidence": 0.5209,
+      "sensitivity": "Safe",
+      "rationale": "The message 'Thank you.' does not contain any words from the list of sensitive topics."
+    }
+  ],
+  "raw_text": "I consider adding this directory to path or if you prefer to suppress this warning. Thank you."
+}

@@ -1,0 +1,183 @@
+{
+  "file": "C:\\Users\\Surya\\PycharmProjects\\ProjectChallenge1\\audio_data\\audio_files\\prerecorded_20250522_005720.wav",
+  "language": "en",
+  "language_warning": {
+    "triggered": false,
+    "severity": "None",
+    "message": ""
+  },
+  "segments": [
+    {
+      "start": "00:00.000",
+      "end": "00:08.199",
+      "text": "I do expect other retailers to follow in Walmart steps in large part because once a large global",
+      "confidence": 0.9003,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not discuss sensitive topics such as salary, mental health, gossip, project, or harassment."
+    },
+    {
+      "start": "00:08.199",
+      "end": "00:13.480",
+      "text": "retailer like Walmart is able to come up and say that this is what we are planning on doing and",
+      "confidence": 0.9723,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message discusses a retailer's plan, which is not related to any sensitive topics provided."
+    },
+    {
+      "start": "00:13.480",
+      "end": "00:18.739",
+      "text": "it is inevitable, it almost gives permission for the rest of the retail industry to do the same.",
+      "confidence": 0.9946,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message discusses a general trend in the retail industry, no sensitive topics mentioned directly or indirectly."
+    },
+    {
+      "start": "00:19.679",
+      "end": "00:26.179",
+      "text": "she is getting paid more than us thats unfair ",
+      "confidence": 0.9627,
+      "topic_matches": [],
+      "sensitivity": "Warning",
+      "rationale": "Discusses salary, a sensitive topic in the workplace"
+    },
+    {
+      "start": "00:26.179",
+      "end": "00:31.820",
+      "text": "and this is not out yet; about the project details , we are getting alpha project",
+      "confidence": 0.8793,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message pertains to project details, which is not on the sensitive topics list."
+    },
+    {
+      "start": "00:31.820",
+      "end": "00:40.619",
+      "text": "do expect others to make similar announcements. Now what is interesting is all, what is this",
+      "confidence": 0.9125,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not contain any sensitive topics such as salary, mental health, gossip, project details, or harassment."
+    },
+    {
+      "start": "00:40.619",
+      "end": "00:48.119",
+      "text": "impact going to have on inflation? Because once you raise prices, you absolutely lead to more",
+      "confidence": 0.9709,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message discusses economic concepts (inflation and pricing) which are generally considered safe topics in a workplace."
+    },
+    {
+      "start": "00:48.119",
+      "end": "00:54.960",
+      "text": "inflation. If you lead to inflation, you typically are going to force the Fed's hand to also raise",
+      "confidence": 0.9896,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message discusses economic concepts and does not pertain to any sensitive topics listed."
+    },
+    {
+      "start": "00:54.960",
+      "end": "01:03.439",
+      "text": "The manager leaked information about the project details and it is on dark web now,",
+      "confidence": 0.9298,
+      "topic_matches": [],
+      "sensitivity": "Critical",
+      "rationale": "Disclosure of project details, which can be confidential, is a policy violation."
+    },
+    {
+      "start": "01:03.979",
+      "end": "01:09.799",
+      "text": "then we may have another downturn and that would make the likelihood of a recession",
+      "confidence": 0.9283,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not discuss any of the specified sensitive topics."
+    },
+    {
+      "start": "01:10.719",
+      "end": "01:17.700",
+      "text": "probably higher. So there's still a lot that remains to be seen. The one piece of the calculation",
+      "confidence": 0.984,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message discusses the progress of a project and does not contain any references to salary, mental health, gossip, harassment, or any sensitive information."
+    },
+    {
+      "start": "01:17.700",
+      "end": "01:27.620",
+      "text": "because I do think a lot of the goal of tariffs is to realign global trade and to make the US more",
+      "confidence": 0.9265,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not contain any sensitive topics mentioned in the list: salary, mental health, gossip, project, harassment."
+    },
+    {
+      "start": "01:27.620",
+      "end": "01:36.560",
+      "text": "competitive and to truly put American consumers and even American businesses in a more favorable",
+      "confidence": 0.9283,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not contain any sensitive topics listed."
+    },
+    {
+      "start": "01:36.560",
+      "end": "01:45.219",
+      "text": "position. But one I think unintended consequence will be if so many businesses like Walmart and others",
+      "confidence": 0.9135,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not discuss any of the sensitive topics provided."
+    },
+    {
+      "start": "01:45.219",
+      "end": "01:51.120",
+      "text": "are so spooked by tariffs that they raise their prices. And if they raise their prices,",
+      "confidence": 0.9506,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not discuss salary, mental health, gossip, projects, or harassment."
+    },
+    {
+      "start": "01:51.500",
+      "end": "01:57.920",
+      "text": "Swetha is a bitch and liar,",
+      "confidence": 0.9621,
+      "topic_matches": [],
+      "sensitivity": "Critical",
+      "rationale": "This message contains personal insults, which is considered harassment."
+    },
+    {
+      "start": "01:58.260",
+      "end": "02:04.340",
+      "text": "we end up with a similar inflation spiral to what we had a few years ago. And that was not a",
+      "confidence": 0.9895,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not contain sensitive topics related to salary, mental health, gossip, project, or harassment."
+    },
+    {
+      "start": "02:04.340",
+      "end": "02:10.020",
+      "text": "great time for either the economy or consumer confidence or the stock market. And we may see",
+      "confidence": 0.9732,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "The message does not discuss any of the specified sensitive topics."
+    },
+    {
+      "start": "02:10.620",
+      "end": "02:12.180",
+      "text": "essentially a reduction in that.",
+      "confidence": 0.4871,
+      "topic_matches": [],
+      "sensitivity": "Safe",
+      "rationale": "'essentially a reduction in that' does not pertain to any of the specified sensitive topics."
+    }
+  ],
+  "raw_text": "I do expect other retailers to follow in Walmart steps in large part because once a large global retailer like Walmart is able to come up and say that this is what we are planning on doing and it is inevitable, it almost gives permission for the rest of the retail industry to do the same. And ultimately if Walmart is the price floor for a lot of goods, it gives permission for everyone else who competes with Walmart to also raise the price of their goods and lock steps. So I absolutely do expect others to make similar announcements. Now what is interesting is all, what is this impact going to have on inflation? Because once you raise prices, you absolutely lead to more inflation. If you lead to inflation, you typically are going to force the Fed's hand to also raise interest rates to kind of keep inflation in check. And if that sort of set of dominoes all fall, then we may have another downturn and that would make the likelihood of a recession probably higher. So there's still a lot that remains to be seen. The one piece of the calculation because I do think a lot of the goal of tariffs is to realign global trade and to make the US more competitive and to truly put American consumers and even American businesses in a more favorable position. But one I think unintended consequence will be if so many businesses like Walmart and others are so spooked by tariffs that they raise their prices. And if they raise their prices, you know, kind of even before tariffs had the ability to have an impact on their actual prices, we end up with a similar inflation spiral to what we had a few years ago. And that was not a great time for either the economy or consumer confidence or the stock market. And we may see essentially a reduction in that."
+}
